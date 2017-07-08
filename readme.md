@@ -9,6 +9,10 @@
 ```
 
 ```sh
+npm i
+```
+
+```sh
 npm link
 ```
 
