@@ -15,7 +15,7 @@ npm link
 ## Usage
 
 ```sh
-weather
+> weather
 
 // Denver, CO: 30 C degrees.
 ```

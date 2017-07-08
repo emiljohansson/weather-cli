@@ -1,6 +1,6 @@
 {
   "name": "weather-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Cli interface for retrieving the weather.",
   "main": "cli.js",
   "repository": {
